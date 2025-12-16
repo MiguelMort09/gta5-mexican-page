@@ -70,7 +70,7 @@ Un atacante podría ejecutar código JavaScript malicioso en el navegador de otr
 ### Tiempos de Respuesta
 
 | Severidad | Primera Respuesta | Resolución Objetivo |
-|-----------|------------------|---------------------|
+| --------- | ---------------- | ------------------- |
 | 🔴 Crítica | 24 horas | 7 días |
 | 🟠 Alta | 48 horas | 14 días |
 | 🟡 Media | 5 días | 30 días |
