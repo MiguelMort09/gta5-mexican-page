@@ -1,4 +1,4 @@
-# GTA🇲🇽 | Sitio Web Oficial
+# Calles de México 🇲🇽 | Sitio Web Oficial
 
 ![Estado del Proyecto](https://img.shields.io/badge/estado-activo-success.svg)
 ![Licencia](https://img.shields.io/badge/licencia-MIT-blue.svg)
@@ -75,7 +75,7 @@ Git
 ## 📁 Estructura del Proyecto
 
 ```
-calles-de-mexico/
+gta5-mexican-page/
 ├── public/
 │   ├── images/
 │   │   ├── hero/
