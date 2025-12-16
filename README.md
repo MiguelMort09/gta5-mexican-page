@@ -163,7 +163,7 @@ npm run start
 - ⚡ Lighthouse Score: 95+
 - 🎯 First Contentful Paint: < 1.5s
 - 📱 Mobile Optimizado: 100%
-- ♿ Accesibilidad: WCAG 2.1 AA
+- ♿ Accesibilidad: Objetivo de alineación con WCAG 2.1 AA (en proceso de verificación)
 
 ## 🤝 Contribuciones
 
