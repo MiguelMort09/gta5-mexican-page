@@ -17,6 +17,28 @@ export default function Page() {
 
   return (
     <div className="min-h-screen bg-background text-foreground">
+      <header className="border-b border-border bg-card/50 backdrop-blur-sm sticky top-0 z-50">
+        <div className="container mx-auto px-4 py-4 flex items-center justify-between">
+          <div className="text-2xl font-black">
+            CALLES DE <span className="text-primary">MÉXICO</span>
+          </div>
+          <nav className="hidden md:flex items-center gap-6">
+            <a href="/" className="font-bold text-primary transition-colors">
+              INICIO
+            </a>
+            <a href="/misiones" className="font-bold hover:text-primary transition-colors">
+              MISIONES
+            </a>
+            <a href="/vehiculos" className="font-bold hover:text-primary transition-colors">
+              VEHÍCULOS
+            </a>
+            <a href="/personajes" className="font-bold hover:text-primary transition-colors">
+              PERSONAJES
+            </a>
+          </nav>
+        </div>
+      </header>
+
       {/* Hero Section */}
       <div className="relative h-screen flex items-center justify-center overflow-hidden">
         <div
