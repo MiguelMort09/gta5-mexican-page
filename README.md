@@ -178,12 +178,12 @@ Las contribuciones son bienvenidas. Por favor:
 
 ## 📝 Roadmap
 
-- [ ] Modo multijugador online
-- [ ] Sistema de logros y trofeos
-- [ ] Integración con Discord
-- [ ] Editor de personajes
-- [ ] Modo historia expandido
-- [ ] Aplicación móvil nativa
+- [ ] Modo oscuro y opciones de personalización de la interfaz
+- [ ] Sección de noticias y actualizaciones del universo de Calles de México
+- [ ] Integración con redes sociales (Twitter/X, Instagram, Discord) para la comunidad
+- [ ] Página detallada de personajes, vehículos y mapas con información expandida
+- [ ] Formulario de registro para newsletter y lista de espera del juego
+- [ ] Versión PWA (aplicación web instalable) optimizada para móviles
 
 ## 📄 Licencia
 
