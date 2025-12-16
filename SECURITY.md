@@ -24,13 +24,11 @@ La seguridad de **Calles de México** es nuestra prioridad. Si descubres una vul
 En su lugar, reporta la vulnerabilidad de forma privada:
 
 1. **Vía GitHub Security Advisories** (Recomendado)
-1. **vía GitHub Security Advisories** (Recomendado)
    - Ve a: https://github.com/MiguelMort09/gta5-mexican-page/security/advisories
-   - Haz clic en "Report a vulnerability"
+   - Haz clic en "Report a vulnerabilidad"
    - Completa el formulario con los detalles
 
 2. **Vía Email Directo**
-2. **vía Email Directo**
    - Envía un correo a: **security@miguelmort.dev**
    - Asunto: `[SECURITY] Vulnerabilidad en Calles de México`
 
