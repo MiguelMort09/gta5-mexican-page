@@ -114,7 +114,7 @@ Los contribuidores de seguridad serán listados aquí:
 
 Si estás contribuyendo al proyecto, sigue estas prácticas:
 
-### Para Developers
+### Para Desarrolladores
 
 - ✅ **Nunca** hagas commit de secretos, API keys o credenciales
 - ✅ Usa variables de entorno para información sensible
