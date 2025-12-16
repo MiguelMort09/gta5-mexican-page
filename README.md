@@ -160,11 +160,12 @@ npm run start
 
 ## 📊 Rendimiento
 
-- ⚡ Lighthouse Score: 95+
-- 🎯 First Contentful Paint: < 1.5s
-- 📱 Mobile Optimizado: 100%
-- ♿ Accesibilidad: Objetivo de alineación con WCAG 2.1 AA (en proceso de verificación)
+> Estos valores son objetivos de rendimiento y pueden variar según dispositivo, red y entorno de despliegue.
 
+- ⚡ Lighthouse Score (objetivo): 95+
+- 🎯 First Contentful Paint (objetivo): < 1.5s
+- 📱 Optimización en mobile (objetivo): cercano al 100%
+- ♿ Accesibilidad: WCAG 2.1 AA (en proceso de mejora continua)
 ## 🤝 Contribuciones
 
 Las contribuciones son bienvenidas. Por favor:
