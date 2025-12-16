@@ -54,7 +54,7 @@ Se encontró una vulnerabilidad XSS en el campo de búsqueda de vehículos.
 
 **Pasos para reproducir**:
 1. Ir a /vehiculos
-2. En el campo de búsqueda, ingresar: <script>alert('XSS')</script>
+2. En el campo de búsqueda, ingresar: `<script>alert('XSS')</script>`
 3. El script se ejecuta sin sanitización
 
 **Impacto**: 
