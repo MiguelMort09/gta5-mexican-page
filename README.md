@@ -1,8 +1,8 @@
 # GTA🇲🇽 | Sitio Web Oficial
 
-[![Estado del Proyecto](https://img.shields.io/badge/estado-activo-success.svg)]()
-[![Licencia](https://img.shields.io/badge/licencia-MIT-blue.svg)]()
-[![Versión](https://img.shields.io/badge/versión-1.0.0-brightgreen.svg)]()
+![Estado del Proyecto](https://img.shields.io/badge/estado-activo-success.svg)
+![Licencia](https://img.shields.io/badge/licencia-MIT-blue.svg)
+![Versión](https://img.shields.io/badge/versión-1.0.0-brightgreen.svg)
 
 > Sitio web promocional inspirado en GTA, ambientado en la vibrante cultura mexicana. Una experiencia inmersiva que combina acción urbana con elementos culturales icónicos de México.
 
@@ -43,8 +43,8 @@ Git
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/tuusuario/calles-de-mexico.git
-   cd calles-de-mexico
+   git clone https://github.com/MiguelMort09/gta5-mexican-page.git
+   cd gta5-mexican-page
    ```
 
 2. **Instalar dependencias**
@@ -186,13 +186,13 @@ Las contribuciones son bienvenidas. Por favor:
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ## 👨‍💻 Autor
 
 **Miguel Mort**
 - Website: [miguelmort.dev](https://miguelmort.dev)
-- GitHub: [@miguelmort](https://github.com/miguelmort)
+- GitHub: [@MiguelMort09](https://github.com/MiguelMort09)
 - LinkedIn: [Miguel Mort](https://linkedin.com/in/miguelmort)
 
 ## 🙏 Agradecimientos
@@ -206,9 +206,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 
 ¿Tienes preguntas o sugerencias? Contáctanos:
 
-- 📧 Email: contacto@callesdemexico.com
-- 💬 Discord: [Servidor Oficial](https://discord.gg/callesdemexico)
-- 🐦 Twitter: [@CallesDeMexico](https://twitter.com/callesdemexico)
+- 🐦 Twitter/X: Canal oficial próximamente
 
 ---
 
@@ -216,7 +214,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 
 **¿Listo para conquistar las calles?**
 
-[🎮 Jugar Ahora](https://gtamx.miguelmort.dev) | [📖 Documentación](https://docs.callesdemexico.com) | [🎬 Ver Tráiler](https://youtube.com)
+🎮 Jugar Ahora (Próximamente) | 📖 Documentación (Próximamente) | 🎬 Tráiler (Próximamente)
 
 Hecho con ❤️ en México 🇲🇽
 
