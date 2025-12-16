@@ -8,7 +8,7 @@
 
 ## 📋 Descripción
 
-**Calles de México** es un sitio web interactivo que presenta un universo de videojuego ficticio ambientado en las calles de México. El proyecto combina diseño moderno, animaciones fluidas y elementos culturales mexicanos para crear una experiencia visual única inspirada en títulos de acción urbana.
+**Calles de México** es un sitio web interactivo promocional que presenta un universo ficticio de videojuego, ambientado en las calles de México. El proyecto combina diseño moderno, animaciones fluidas y elementos culturales mexicanos para crear una experiencia visual única inspirada en títulos de acción urbana.
 
 ### 🎯 Características Principales
 
