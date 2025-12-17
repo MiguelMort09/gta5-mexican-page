@@ -25,7 +25,7 @@ En su lugar, reporta la vulnerabilidad de forma privada:
 
 1. **Vía GitHub Security Advisories** (Recomendado)
    - Ve a: https://github.com/MiguelMort09/gta5-mexican-page/security/advisories
-   - Haz clic en "Report a vulnerabilidad"
+   - Haz clic en "Report a vulnerability"
    - Completa el formulario con los detalles
 
 2. **Vía Email Directo**
